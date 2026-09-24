@@ -1,6 +1,6 @@
 # GitHub mirror of `jev-style-v3`
 
-This repository mirrors the private Hugging Face Space at:
+This repository mirrors the public Hugging Face Space at:
 
 <https://huggingface.co/spaces/chaoliangUNSW/jev-style-v3>
 
